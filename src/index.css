@@ -11,3 +11,32 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#inicioSesion{
+  background: url('./assets/fondos/fondo_inicio.jpg') no-repeat center center fixed;
+  background-size: cover;
+
+}
+
+.padded{
+  padding-top:  90px;
+  padding-bottom: 90px;
+}
+
+.container{
+  max-width: 1600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+#footer  {
+  background: #232526;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #414345, #232526);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #414345, #232526); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  color: white;
+}
+.padded-footer{
+  padding-top: 0px;
+  padding-bottom:5px;
+}
