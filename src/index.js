@@ -8,6 +8,7 @@ import { HashRouter, Route, Switch } from "react-router-dom";
 import reportWebVitals from './reportWebVitals';
 import Panel from './Components/Panel';
 import Footer from './Components/Footer';
+import Categoria from './Components/Categoria';
 
 ReactDOM.render(
   <React.StrictMode>
@@ -15,8 +16,9 @@ ReactDOM.render(
       <Switch>
         <Route exact path="/" component={App}/>
         <Route exact path="/panel" component={Panel}/>
+        <Route exact path="/categoria" component={Categoria}/>
       </Switch>
-      <Footer/>
+     
     </HashRouter>
   </React.StrictMode>,
   document.getElementById('root')
