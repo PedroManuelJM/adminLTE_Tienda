@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/adminLTE_Tienda/static/css/main.9525a763.chunk.css",
+    "main.js": "/adminLTE_Tienda/static/js/main.0a5444f7.chunk.js",
+    "main.js.map": "/adminLTE_Tienda/static/js/main.0a5444f7.chunk.js.map",
+    "runtime-main.js": "/adminLTE_Tienda/static/js/runtime-main.bf44a096.js",
+    "runtime-main.js.map": "/adminLTE_Tienda/static/js/runtime-main.bf44a096.js.map",
+    "static/css/2.150d169a.chunk.css": "/adminLTE_Tienda/static/css/2.150d169a.chunk.css",
+    "static/js/2.868d3533.chunk.js": "/adminLTE_Tienda/static/js/2.868d3533.chunk.js",
+    "static/js/2.868d3533.chunk.js.map": "/adminLTE_Tienda/static/js/2.868d3533.chunk.js.map",
+    "static/js/3.757bcf48.chunk.js": "/adminLTE_Tienda/static/js/3.757bcf48.chunk.js",
+    "static/js/3.757bcf48.chunk.js.map": "/adminLTE_Tienda/static/js/3.757bcf48.chunk.js.map",
+    "index.html": "/adminLTE_Tienda/index.html",
+    "static/css/2.150d169a.chunk.css.map": "/adminLTE_Tienda/static/css/2.150d169a.chunk.css.map",
+    "static/css/main.9525a763.chunk.css.map": "/adminLTE_Tienda/static/css/main.9525a763.chunk.css.map",
+    "static/js/2.868d3533.chunk.js.LICENSE.txt": "/adminLTE_Tienda/static/js/2.868d3533.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/adminLTE_Tienda/static/media/fondo_inicio.9687de69.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf44a096.js",
+    "static/css/2.150d169a.chunk.css",
+    "static/js/2.868d3533.chunk.js",
+    "static/css/main.9525a763.chunk.css",
+    "static/js/main.0a5444f7.chunk.js"
+  ]
+}
